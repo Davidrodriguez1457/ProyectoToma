@@ -63,7 +63,12 @@ Esto abrirá una ventana en tu navegador donde podrás interactuar con la aplica
 
 La estructura del proyecto es la siguiente:
 ```bash
-/proyecto-happiness │ ├── app.py # Archivo principal con la aplicación en Streamlit ├── happiness_data.db # Base de datos SQLite con los datos de felicidad ├── 2015.cv # Datos del año 2015 ├── 2016.cv # Datos del año 2016 ├── ProyectoTomaDecisiones.ipynb # Notebook de análisis complementario ├── requirements.txt # Archivo de dependencias del proyecto └── README.md # Este archivo
+/proyecto-happiness │
+├── app.py # Archivo principal con la aplicación en Streamlit
+├── happiness_data.db # Base de datos SQLite con los datos de felicidad
+├── 2015.cv # Datos del año 2015 ├── 2016.cv # Datos del año 2016
+├── ProyectoTomaDecisiones.ipynb # Notebook de análisis complementario
+└── README.md # Este archivo
 ```
 
 
