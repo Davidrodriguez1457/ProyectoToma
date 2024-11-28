@@ -18,7 +18,7 @@ Sigue estos pasos para ejecutar la aplicación y realizar el análisis:
 Clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/proyecto-happiness
+git clone https://github.com/Davidrodriguez1457/ProyectoToma
 ```
 
 ## Paso 2: Crear un entorno virtual (opcional, pero recomendado)
